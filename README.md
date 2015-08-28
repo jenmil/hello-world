@@ -1,3 +1,2 @@
 # hello-world
-Hello World Tutorial
-say "hi!"
+Hello World Tutorial so say "H!"
